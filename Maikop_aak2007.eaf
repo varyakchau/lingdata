@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2025-10-08T23:20:49+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///D:/Maikop_aak2007.avi"
+            MIME_TYPE="video/*" RELATIVE_MEDIA_URL="./Maikop_aak2007.avi"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:ccc78469-59b1-4e70-98a4-09f00b6fdf9b</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">11</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="42030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="45450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="47200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="50650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="52010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="63110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="63610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="73580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="74370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="88020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="88350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="101500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="104060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="104090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="104890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="108660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="109470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="109890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="110380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="124970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="124970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="131790"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER ANNOTATOR="varyakchau" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@dfois" TIER_ID="text@aak2007f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>аа я рассматривала много городов для поступления</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>ааа и из всех имеющихся вариантов я решила что аа именно в вышке в москве будет / более интересно</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>ааа я думаю что это наверное / темп жизни больше всего заметен потому что в моём городе ну он сравнительно маленький прям типа очень маленький </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>ааа там очень спокойные улицы а нет слишком много машин аа / очень тихо вообще а тут достаточно быстро и громко это было непривычно</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>ааа</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>я переехалаа получается /  двадцадь седьмого августа у меня было заселение двадцать восьмого и двадцадь седьмого я приехала аа чтобы более менее адаптироваться где-то там походить погулять</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>я приехала с папой мы там погуляли немножко и чтобы на следующий день мы ужее отправили меня заселяться</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="varyakchau" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="varyakchau" TIER_ID="text@via2007f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>как тебе вообще пришла мысль переехать именно в москву?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>   угу / ммм какие может быть ты уже заметила кардинальные отличия москвы от э твоего родного города?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>#смеётся#</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>аа когда ты переехала типа за=заранее или ты вот прям к первому сентября?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture-meaning" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
